@@ -1,0 +1,13 @@
+.Counry{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border: solid black 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Countries{
+    margin: 5px
+}

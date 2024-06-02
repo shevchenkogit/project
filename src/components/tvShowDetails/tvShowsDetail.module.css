@@ -1,0 +1,15 @@
+.TvDitales{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Countries{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.Genres {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}

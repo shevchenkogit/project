@@ -1,0 +1,18 @@
+.Movie{
+   margin: 5px;
+    justify-content: center;
+}
+
+.title{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    color: #282c34;
+}
+
+.Image{
+    height: 80%;
+    border-radius: 30px;
+}

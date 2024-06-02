@@ -1,0 +1,21 @@
+.SearchForm{
+    margin-top: 5px;
+    justify-content: center;
+    display: flex;
+    width: 100vw;
+}
+.Input{
+    background-color: lavender;
+    width: 80%;
+    height: 45px;
+    border-radius: 30px;
+}
+.Button{
+background-color: darkgrey;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
